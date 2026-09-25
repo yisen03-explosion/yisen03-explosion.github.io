@@ -64,7 +64,8 @@ My research focuses on robot learning for human–robot collaboration, including
 - *2026.09*:&nbsp;🎉 My summer research at the ETAIC Lab was selected for an Internship Spotlight by the Penn Electrical and Systems Engineering Department: [ESE Blog](https://blog.ese.upenn.edu/ee-masters-student-yisen-li-shares-summer-internship-experience-at-the-embodied-technology-for-autonomy-intelligence-and-control-etaic-lab/) \| [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7508577433390931969/).
 - *2026.09*: Four papers were submitted to IEEE International Conference on Robotics and Automation (ICRA) 2027: [SAGE](https://arxiv.org/abs/2609.21130), [Penalty Kicks](https://arxiv.org/abs/2609.21100), [C2C](https://arxiv.org/abs/2603.03768), and [Goalkeeping](https://arxiv.org/abs/2609.23976).
 - *2026.05*:&nbsp;🎉 Our paper [Learning-Augmented Optimization and Control of Long-Haul Mobility Propulsion Systems](https://doi.org/10.1016/j.isci.2026.115579) was published in *iScience*.
-- *2026.05*: I joined the [ETAIC Lab](https://etaic.github.io/) at The University of Texas at Arlington as a Research Assistant, conducting research with [Prof. H. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/), and [Dr. Hao E. Zhang](https://haozhang-thu.github.io/).
+- *2026.05*: I joined the [ETAIC Lab](https://etaic.github.io/) at The University of Texas at Arlington as a Research Assistant, conducting research with [Prof. H. Eric Tseng](https://www.nae.edu/248787/Dr-Hongtei-E-Tseng), a member of the [National Academy of Engineering](https://www.nae.edu/).
+- *2026.05*: I joined the [Safe AI Lab](https://safeai-lab.github.io/) at Carnegie Mellon University as a Research Assistant, working with [Dr. Hao E. Zhang](https://haozhang-thu.github.io/).
 
 # 📝 Publications
 
@@ -136,5 +137,6 @@ Hao E. Zhang\*, Ruize Geng\*, **Yisen Li**, Yaru Niu, Yikai Wang, Raihan Haque, 
 
 # 🔬 Research Experience
 - *2026.05 - now*, Research Assistant, **ETAIC Lab, The University of Texas at Arlington**, Arlington, USA.
+- *2026.05 - now*, Research Assistant, **Safe AI Lab, Carnegie Mellon University**, Pittsburgh, USA.
 - *2024.09 - 2024.10*, Research Intern, **Institute of Automation, Chinese Academy of Sciences**, Beijing, China.
 - *2022.07 - 2022.08*, Research Intern, **Institute of Acoustics, Chinese Academy of Sciences**, Beijing, China.
