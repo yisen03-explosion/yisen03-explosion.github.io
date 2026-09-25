@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+description: "Yisen Li - Master's student in Electrical Engineering at the University of Pennsylvania. Robot learning, multi-agent reinforcement learning, and safe human-robot collaboration."
 author_profile: true
 redirect_from: 
   - /about/
