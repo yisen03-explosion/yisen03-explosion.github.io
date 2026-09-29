@@ -69,7 +69,7 @@ My research focuses on robot learning for human–robot collaboration, including
 
 \* Equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video style="width: 113%;" autoplay loop muted playsinline preload="metadata" poster="images/sage-demo-poster.jpg" aria-label="SAGE human–robot collaboration demonstration"><source src="images/sage-demo-30fps.mp4" type="video/mp4"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video autoplay loop muted playsinline preload="metadata" poster="images/sage-demo-poster.jpg" aria-label="SAGE human–robot collaboration demonstration"><source src="images/sage-demo-30fps.mp4" type="video/mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAGE: Safety-Aligned Gradient Enforcement for Human–Robot Collaboration](https://arxiv.org/abs/2609.21130)
@@ -84,7 +84,7 @@ My research focuses on robot learning for human–robot collaboration, including
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_DIC.gif' alt="Dynamics-Induced Commitment demonstration" width="92%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_DIC.gif' alt="Dynamics-Induced Commitment demonstration" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks](https://arxiv.org/abs/2609.21100)
@@ -99,7 +99,7 @@ Ruize Geng\*, Hao E. Zhang\*, **Yisen Li**, Yikai Wang, H. Eric Tseng, Ding Zhao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.gif' alt="Human–humanoid collaboration demonstration" width="92%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.gif' alt="Human–humanoid collaboration demonstration" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physical Contracts for Plug-Compatible Human–Humanoid Collaboration](https://arxiv.org/abs/2603.03768)
@@ -114,7 +114,7 @@ Ruize Geng\*, Hao E. Zhang\*, **Yisen Li**, Yikai Wang, H. Eric Tseng, Ding Zhao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_MOS.gif' alt="Robot goalkeeping demonstration" width="92%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_MOS.gif' alt="Robot goalkeeping demonstration" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anticipatory Robot Goalkeeping via Monotone Optimal Stopping](https://arxiv.org/abs/2609.23976)
@@ -129,7 +129,7 @@ Hao E. Zhang\*, Ruize Geng\*, **Yisen Li**, Yaru Niu, Yikai Wang, Raihan Haque, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience</div><img src='images/iscience_ahev.gif' alt="Learning-augmented vehicle optimization demonstration" width="92%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience</div><img src='images/iscience_ahev.gif' alt="Learning-augmented vehicle optimization demonstration" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning-Augmented Optimization and Control of Long-Haul Mobility Propulsion Systems](https://doi.org/10.1016/j.isci.2026.115579)
