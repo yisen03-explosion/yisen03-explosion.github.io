@@ -24,28 +24,28 @@ My research focuses on robot learning for human–robot collaboration, including
   <div style="display: flex; justify-content: space-between; gap: 2%;">
 
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
-      <img src="images/multi_agent_safe_decision.gif" alt="Multi-Agent Safe Decision Making" style="width: 100%; aspect-ratio: 5 / 3; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="images/multi_agent_safe_decision.gif" alt="Multi-Agent Safe Decision Making" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 5 / 3; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
         Multi-Agent Safe Decision Making
       </div>
     </div>
 
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
-      <img src="images/robot_soccer.gif" alt="Multi-Agent Self-Play" style="width: 100%; aspect-ratio: 5 / 3; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="images/robot_soccer.gif" alt="Multi-Agent Self-Play" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 5 / 3; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
         Multi-Agent Self-Play
       </div>
     </div>
 
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
-      <img src="images/human_humanoid_collab.gif" alt="Human–Humanoid Collaboration" style="width: 100%; aspect-ratio: 5 / 3; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="images/human_humanoid_collab.gif" alt="Human–Humanoid Collaboration" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 5 / 3; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
         Human–Humanoid Collaboration
       </div>
     </div>
 
     <div style="width: 23.5%; display: flex; flex-direction: column; align-items: center;">
-      <img src="images/sim_to_real.gif" alt="Sim-to-Real Humanoid Deployment" style="width: 100%; aspect-ratio: 5 / 3; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="images/sim_to_real.gif" alt="Sim-to-Real Humanoid Deployment" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 5 / 3; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <div style="text-align: center; color: #666; font-size: 0.85em; margin-top: 8px; line-height: 1.2;">
         Sim-to-Real Humanoid Deployment
       </div>
@@ -69,7 +69,7 @@ My research focuses on robot learning for human–robot collaboration, including
 
 \* Equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_SAGE_ICRA.gif' alt="sym" width="113%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video style="width: 113%;" autoplay loop muted playsinline preload="metadata" poster="images/ICRA_SAGE_ICRA_poster.jpg" aria-label="SAGE human–robot collaboration demonstration"><source src="images/ICRA_SAGE_ICRA.mp4" type="video/mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAGE: Safety-Aligned Gradient Enforcement for Human–Robot Collaboration](https://arxiv.org/abs/2609.21130)
@@ -84,7 +84,7 @@ My research focuses on robot learning for human–robot collaboration, including
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_DIC.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_DIC.gif' alt="Dynamics-Induced Commitment demonstration" width="92%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks](https://arxiv.org/abs/2609.21100)
@@ -99,7 +99,7 @@ Ruize Geng\*, Hao E. Zhang\*, **Yisen Li**, Yikai Wang, H. Eric Tseng, Ding Zhao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IROSHARL.gif' alt="Human–humanoid collaboration demonstration" width="92%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physical Contracts for Plug-Compatible Human–Humanoid Collaboration](https://arxiv.org/abs/2603.03768)
@@ -114,7 +114,7 @@ Ruize Geng\*, Hao E. Zhang\*, **Yisen Li**, Yikai Wang, H. Eric Tseng, Ding Zhao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_MOS.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICRA_MOS.gif' alt="Robot goalkeeping demonstration" width="92%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anticipatory Robot Goalkeeping via Monotone Optimal Stopping](https://arxiv.org/abs/2609.23976)
@@ -129,7 +129,7 @@ Hao E. Zhang\*, Ruize Geng\*, **Yisen Li**, Yaru Niu, Yikai Wang, Raihan Haque, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience</div><img src='images/iscience_ahev.gif' alt="sym" width="92%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience</div><img src='images/iscience_ahev.gif' alt="Learning-augmented vehicle optimization demonstration" width="92%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning-Augmented Optimization and Control of Long-Haul Mobility Propulsion Systems](https://doi.org/10.1016/j.isci.2026.115579)
