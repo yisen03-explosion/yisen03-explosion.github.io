@@ -69,7 +69,7 @@ My research focuses on robot learning for human–robot collaboration, including
 
 \* Equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video style="width: 113%;" autoplay loop muted playsinline preload="metadata" poster="images/ICRA_SAGE_ICRA_poster.jpg" aria-label="SAGE human–robot collaboration demonstration"><source src="images/ICRA_SAGE_ICRA.mp4" type="video/mp4"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video style="width: 113%;" autoplay loop muted playsinline preload="metadata" poster="images/sage-demo-poster.jpg" aria-label="SAGE human–robot collaboration demonstration"><source src="images/sage-demo-30fps.mp4" type="video/mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAGE: Safety-Aligned Gradient Enforcement for Human–Robot Collaboration](https://arxiv.org/abs/2609.21130)
