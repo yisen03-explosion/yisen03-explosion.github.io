@@ -93,6 +93,7 @@ My research focuses on robot learning for human–robot collaboration, including
 Ruize Geng\*, Hao E. Zhang\*, **Yisen Li**, Yikai Wang, H. Eric Tseng, Ding Zhao
 <br>*Submitted to IEEE Trans. (Full version) and ICRA (Conf version)*
 
+[**Project Webpage**](/penaltykick/)
 - We introduce dynamics-induced commitment mapping (DIC-Map), a body-grounded framework that identifies when physical dynamics eliminate strategic alternatives in robotic games, revealing how embodiment fundamentally shapes learning and decision making in humanoid-quadruped penalty kicks.
 
 </div>
